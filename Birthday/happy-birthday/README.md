@@ -2,7 +2,7 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://Fahim.github.io/happy-birthday/)
+#### [See it Live](https://github.com/Sanuj14/Birthday.git)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
