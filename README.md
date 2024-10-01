@@ -4,4 +4,4 @@ Celebrate your loved ones' special day with a personalized Birthday Landing Page
 
 
 
-#### [See it Live](https://sanuj14.github.io/Birthday)
+#### [See it Live](https://sanuj14.github.io/Birthday/happy-birthday)
